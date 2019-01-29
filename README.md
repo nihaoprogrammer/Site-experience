@@ -13,4 +13,3 @@
 步骤:  
 * 购买云服务器
 * 购买域名
-[在CentOS上安装Docker](https://blog.csdn.net/qq_36892341/article/details/73918672)

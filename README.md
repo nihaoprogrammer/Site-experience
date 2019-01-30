@@ -23,3 +23,4 @@
 3. server_name可以修改为localhost  
 4. nginx卸载     yum remove nginx     
 ```
+* [hexo博客图片问题](https://www.jianshu.com/p/c2ba9533088a)

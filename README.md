@@ -16,6 +16,10 @@
 >推荐用阿里的云服务器(学生可以享受学生价)
 * 购买域名[腾讯云注册域名](https://dnspod.cloud.tencent.com/?from=qcloudHpProductDns)  
 >腾讯域名注册比较方便   
-* 
->卸载nginx   
-yum remove nginx
+* [centos服务器部署hexo（简版）](https://blog.csdn.net/tian330726/article/details/80791388)     
+```
+1. pwd查看hexo的全路径（如： /usr/hexo/public）  
+2. 修改Nginx配置文件时只需修改文中强调的部分  
+3. server_name可以修改为localhost  
+4. nginx卸载     yum remove nginx     
+```

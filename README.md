@@ -1,4 +1,4 @@
-# 个人(主页)博客的创建
+# 个人网站(博客)的创建
 
 ---
 
@@ -8,6 +8,7 @@
 * [用 GitHub Pages + Hexo 搭建个人专属博客](https://www.jianshu.com/p/6a69297d1b88)
 * [Hexo-修改Hexo主题](https://www.jianshu.com/p/33bc0a0a6e90)
 * [GitHub Pages自定义域名](https://www.jianshu.com/p/f5d6dc70f918)
+* 推荐用Atom进行Markdowm的编写(可以实时的看到效果)[Atom - 介绍和使用方法](http://www.hangge.com/blog/cache/detail_1149.html)
 
 ## 服务器搭建个人网站(博客)
 步骤:  

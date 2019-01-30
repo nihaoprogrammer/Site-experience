@@ -11,5 +11,7 @@
 
 ## 服务器搭建个人网站(博客)
 步骤:  
-* 购买云服务器
-* 购买域名
+* 购买云服务器[阿里云服务器](https://account.aliyun.com/login/login.htm?spm=5176.8142029.388261.7.31646d3eMcyutE&qrCodeFirst=false&oauth_callback=https%3A%2F%2Fcn.aliyun.com%2F%3Futm_content%3Dse_798307%26gclid%3DCj0KCQiAkMDiBRDNARIsACKP1FFgxEBaBs7DR9hiaw3zSzzQFxHNtndMpti-iCdZ5sA3MZxpAYQUZmkaAnoGEALw_wcB)    
+>阿里的云服务比较好
+* 购买域名[腾讯云注册域名](https://dnspod.cloud.tencent.com/?from=qcloudHpProductDns)  
+>腾讯域名注册比较方便

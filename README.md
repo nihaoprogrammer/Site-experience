@@ -1,4 +1,8 @@
-# 个人网站(博客)的创建
+# 个人博客的创建
+
+---
+
+## 个人博客已转到WordPress，个人网站：[www.deozhang.com](https://www.deozhang.com)欢迎访问！
 
 ---
 

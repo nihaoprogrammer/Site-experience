@@ -1,6 +1,6 @@
 ---
 
-# 个人博客已转到WordPress，个人网站：[www.deozhang.com](https://www.deozhang.com)欢迎访问！
+## 个人博客已转到WordPress，个人网站：[www.deozhang.com](https://www.deozhang.com)欢迎访问！
 
 ---
 
